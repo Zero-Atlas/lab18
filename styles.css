@@ -1,0 +1,27 @@
+.carousel-item-img-1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(images/city.jpg);
+}
+.carousel-item-img-2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(images/field.jpg);
+}
+.carousel-item-img-3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(images/sky.jpg);
+}
+.carousel-item {
+  height: 90vh;
+}
+main {
+  min-height: 100rem;
+}
+footer ul {
+  justify-content: space-between;
+}
